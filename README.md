@@ -286,7 +286,6 @@ Analyzing-eCommerce-Business-Performance-with-SQL/
 │   ├── payment.png                           # Payment method usage query result table
 │   └── [chart_graphics].png                  # Performance visualization charts
 │
-├── mini-project-completion-certificate-10709IAPFGIA1102022.pdf  # Project completion certificate
 └── README.md                                 # Project documentation
 ```
 
